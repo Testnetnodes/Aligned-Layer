@@ -15,7 +15,7 @@ curl -L https://raw.githubusercontent.com/yetanotherco/aligned_layer/main/batche
 
 ```console
 
-💥 Buradaki Kodları Toplu Girebilirsiniz.
+## 💥 Buradaki Kodları Toplu Girebilirsiniz.
 
 rm -rf ~/aligned_verification_data/ &&
 aligned submit \
