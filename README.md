@@ -2,7 +2,7 @@
 
 ## 💥 Aligned Layer 'da proof oluşturduktan sonra tweet atmayı ve discordda bulunan Testnet odasına attığınız tweeti göndermeyi unutmayın ( Ödüllü Olabilir )
 
-# Herhangi bi sunucuda işlemleri yapabilirsiniz.
+# Herhangi bi Ubuntu 22 sunucuda işlemleri yapabilirsiniz.
 
 ```console
 sudo apt update -y && sudo apt upgrade -y
