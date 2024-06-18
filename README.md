@@ -26,6 +26,9 @@ aligned submit \
 --conn wss://batcher.alignedlayer.com
 ```
 ## İşlem bittiği zaman aşağıdaki resimdeki gibi size bi explorer çıktısı verecek,explorerdan kontrol edelim.
+
+![Screenshot_36](https://github.com/Testnetnodes/Aligned-Layer/assets/115115403/ab28359d-3b60-40d0-ad8d-fdbdc4798c94)
+
 ## Verified yazısını gördükten sonra sunucuyla olan işimiz bitiyor.
 
 ## Explorerdan almış olduğumuz ekran görüntüsünü AlignedLayer'ı etiketleyerek Tx Hash yazdıktan sonra etiketlemeyi unutmayın.Örnek olarak resime bakabilirsiniz
