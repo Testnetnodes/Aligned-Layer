@@ -12,10 +12,11 @@ source /root/.bashrc
 
 curl -L https://raw.githubusercontent.com/yetanotherco/aligned_layer/main/batcher/aligned/get_proof_test_files.sh | bash
 ```
-#
 
 ```console
-# Alttaki bloğu toplu girin.
+
+💥 Buradaki Kodları Toplu Girebilirsiniz.
+
 rm -rf ~/aligned_verification_data/ &&
 aligned submit \
 --proving_system SP1 \
@@ -24,10 +25,14 @@ aligned submit \
 --aligned_verification_data_path ~/aligned_verification_data \
 --conn wss://batcher.alignedlayer.com
 ```
-> Akabinde altta ki gibi bir çıktı alın, linke tıklayın Verified olmasını bekleyin.
+## İşlem bittiği zaman aşağıdaki resimdeki gibi size bi explorer çıktısı verecek,explorerdan kontrol edelim.
+## Verified yazısını gördükten sonra sunucuyla olan işimiz bitiyor.
 
-> Son olarakta bu ekran görüntüsünü ailgned'i etiketleyerek - TX HASH İLE BİRLİKTE tweetleyin.
+## Explorerdan almış olduğumuz ekran görüntüsünü AlignedLayer'ı etiketleyerek Tx Hash yazdıktan sonra etiketlemeyi unutmayın.Örnek olarak resime bakabilirsiniz
 
-> Tweet'i [discorda](https://discord.gg/b8jKaYBK) testnet kanalında paylaşın.
 
-<img width="1095" alt="Ekran Resmi 2024-06-18 12 33 32" src="https://github.com/ruesandora/Aligned-Layer/assets/101149671/6edfb6e2-7ef1-40b7-9501-c9745e6b139f">
+
+## Attığınınz Tweet'i daha sonra discordlarında bulunan Testnet kanalında paylaşın.
+
+![Aligned](https://github.com/Testnetnodes/Aligned-Layer/assets/115115403/baf79817-df65-47ce-9fa1-a824ce2748bf)
+
