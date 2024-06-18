@@ -30,6 +30,7 @@ aligned submit \
 
 ## Explorerdan almış olduğumuz ekran görüntüsünü AlignedLayer'ı etiketleyerek Tx Hash yazdıktan sonra etiketlemeyi unutmayın.Örnek olarak resime bakabilirsiniz
 
+![Screenshot_35](https://github.com/Testnetnodes/Aligned-Layer/assets/115115403/0ee55c29-d33b-4313-a238-baa482878195)
 
 
 ## Attığınınz Tweet'i daha sonra discordlarında bulunan Testnet kanalında paylaşın.
